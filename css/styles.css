@@ -1,0 +1,46 @@
+@media (min-width: 576px) {
+    .sub-head{
+        background-color: yellowgreen;
+        color: brown;
+    }
+}
+
+@media (max-width: 575.98px)  {
+    .sub-head{
+        background-color: pink;
+        color: darkblue;
+    }
+
+}
+
+/* @media (min-width: 576px) and (max-width: 767px) {
+    .sub-head{
+        background-color: black;
+        color: blanchedalmond;
+    }
+} */
+
+@media (min-width: 576px) {
+    .sub{
+        
+        color: brown;
+    }
+}
+
+@media (max-width: 575.98px)  {
+    .sub{
+     
+        color: darkblue;
+    }
+
+}
+
+@media (min-width: 576px) and (max-width: 767px) {
+    .sub{
+       
+        color: blanchedalmond;
+    }
+}
+
+
+
